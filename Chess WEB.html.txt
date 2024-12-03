@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-US>
+<head>
+<meta charset="utf-8"/>
+<meta name="viewpoint" content="width=device-width"
+<title> Chess Fundamentals</title> 
+<body>
+<img src="C:\Users\darre\OneDrive\Documents\chess image.jfif"/>
+
+
+<h1>   Step 1: the sole method for assembling the chess board.</h1>
+<p> The chessboard is set up at the start of the game so that the white 
+    square is in the lower right corner for every player.</p>
+<img src=https://cdn.britannica.com/44/76444-004-D8C94564/Chess-piecesstarting-positions-chessboard.jpg/>
+<p>After that, the chess pieces are always positioned in the same manner. There are pawns in the second row. The rooks are placed in the corners, 
+followed by the knights who stand next to them, the bishops, the queen, who always wears her own complementary color (black queen on black, white queen on white), and the king on the last square.</p>
+
+
